@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splashScreen">#FFFFFF</color>
+    <color name="colorPrimaryDark">#80cbc4</color>
+    <color name="colorAccent">#f5013a</color>
+    <color name="bkg">#F3F3F3</color>
+    <color name="primary_material_dark_1">#80cbc4</color>
+    <color name="black">#80cbc4</color>
+</resources>

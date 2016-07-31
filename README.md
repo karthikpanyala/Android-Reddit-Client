@@ -1,4 +1,4 @@
-# Expresso for Reddit
+# Expresso for Reddit - 1.0.0
 
 # What can this App currently do?
 * It displays reddit posts from the subreddit of your choice in a fast and minimal way.
